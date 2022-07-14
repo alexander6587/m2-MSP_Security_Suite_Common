@@ -7,7 +7,7 @@
   },
   "suggest": {
     "msp/security-suite": "Full MageSpecialist Security Suite",
-    "msp/notify": "Event based notify system",
+    "msp/module-notifier-all": "Event based notify system",
     "msp/security-suite-logger": "Security Suite Logging system"
   },
   "conflict": {
