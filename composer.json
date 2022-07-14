@@ -1,8 +1,8 @@
 {
-  "name": "msp/security-suite-common",
-  "description": "Magento2 Security Suite by MageSpecialist Common Libraries",
+  "name": "alexander6587/security-suite-common",
+  "description": "Magento2 Security Suite",
   "require": {
-    "php": "^7.0|^7.1",
+    "php": "^7.0|^8.0",
     "magento/magento-composer-installer": "*"
   },
   "suggest": {
